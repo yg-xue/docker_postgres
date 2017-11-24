@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER YG.XUE
+MAINTAINER YG
 
 # Postgresql version
 ENV PG_VERSION 9.4
